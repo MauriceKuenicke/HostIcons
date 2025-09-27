@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test cache
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+*.iml
+
+# Environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Archives
+*.zip
+
+# Misc
+*.log

@@ -1,0 +1,222 @@
+[
+  {
+    "icn_name": "arrow_down_dark",
+    "icn_loc": "./icons/arrow_down_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "arrow_down_light",
+    "icn_loc": "./icons/arrow_down_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "arrow_up_dark",
+    "icn_loc": "./icons/arrow_up_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "arrow_up_light",
+    "icn_loc": "./icons/arrow_up_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "check_dark",
+    "icn_loc": "./icons/check_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "check_light",
+    "icn_loc": "./icons/check_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "circle_dark",
+    "icn_loc": "./icons/circle_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "circle_light",
+    "icn_loc": "./icons/circle_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "cloud_dark",
+    "icn_loc": "./icons/cloud_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "cloud_light",
+    "icn_loc": "./icons/cloud_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "cross_dark",
+    "icn_loc": "./icons/cross_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "cross_light",
+    "icn_loc": "./icons/cross_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "diamond_dark",
+    "icn_loc": "./icons/diamond_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "diamond_light",
+    "icn_loc": "./icons/diamond_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "file_dark",
+    "icn_loc": "./icons/file_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "file_light",
+    "icn_loc": "./icons/file_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "folder_dark",
+    "icn_loc": "./icons/folder_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "folder_light",
+    "icn_loc": "./icons/folder_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "handshake_dark",
+    "icn_loc": "./icons/handshake_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "handshake_light",
+    "icn_loc": "./icons/handshake_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "heart_dark",
+    "icn_loc": "./icons/heart_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "heart_light",
+    "icn_loc": "./icons/heart_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "hexagon_dark",
+    "icn_loc": "./icons/hexagon_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "hexagon_light",
+    "icn_loc": "./icons/hexagon_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "minus_dark",
+    "icn_loc": "./icons/minus_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "minus_light",
+    "icn_loc": "./icons/minus_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "moon_dark",
+    "icn_loc": "./icons/moon_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "moon_light",
+    "icn_loc": "./icons/moon_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "pause_dark",
+    "icn_loc": "./icons/pause_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "pause_light",
+    "icn_loc": "./icons/pause_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "play_dark",
+    "icn_loc": "./icons/play_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "play_light",
+    "icn_loc": "./icons/play_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "plus_dark",
+    "icn_loc": "./icons/plus_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "plus_light",
+    "icn_loc": "./icons/plus_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "square_dark",
+    "icn_loc": "./icons/square_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "square_light",
+    "icn_loc": "./icons/square_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "star_dark",
+    "icn_loc": "./icons/star_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "star_light",
+    "icn_loc": "./icons/star_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "stop_dark",
+    "icn_loc": "./icons/stop_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "stop_light",
+    "icn_loc": "./icons/stop_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "sun_dark",
+    "icn_loc": "./icons/sun_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "sun_light",
+    "icn_loc": "./icons/sun_l.svg",
+    "theme": "light"
+  },
+  {
+    "icn_name": "triangle_dark",
+    "icn_loc": "./icons/triangle_d.svg",
+    "theme": "dark"
+  },
+  {
+    "icn_name": "triangle_light",
+    "icn_loc": "./icons/triangle_l.svg",
+    "theme": "light"
+  }
+]

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Icon Browser</title>
+    <link rel="stylesheet" href="/static/css/styles.css" />
+</head>
+<body>
+<header class="app-header">
+    <div class="brand">
+        <div class="logo" aria-hidden="true">🎯</div>
+        <h1>Icon Browser</h1>
+    </div>
+    <div class="controls">
+        <input id="searchInput" type="search" placeholder="Search icons ( / )" aria-label="Search icons" />
+        <div class="pills" role="tablist" aria-label="Theme filter">
+            <button class="pill active" data-theme="all" aria-pressed="true">All</button>
+            <button class="pill" data-theme="light" aria-pressed="false">Light</button>
+            <button class="pill" data-theme="dark" aria-pressed="false">Dark</button>
+        </div>
+        <button id="pngSizeBtn" class="btn" aria-haspopup="dialog" aria-controls="pngSizeDialog">PNG Size</button>
+    </div>
+</header>
+
+<main class="content" id="mainContent">
+    <div id="grid" class="grid" role="grid" aria-label="Icons grid"></div>
+    <div id="emptyState" class="empty" hidden>No icons match your filters.</div>
+    <div class="pagination" id="pagination"></div>
+</main>
+
+<footer class="footer">
+    <div id="counts">Loading…</div>
+</footer>
+
+<div id="toast" class="toast" role="status" aria-live="polite" aria-atomic="true"></div>
+
+<dialog id="pngSizeDialog" class="dialog">
+    <form method="dialog">
+        <h3>PNG Export Size</h3>
+        <div class="size-options">
+            <label><input type="radio" name="pngSize" value="128"> 128 px</label>
+            <label><input type="radio" name="pngSize" value="256"> 256 px</label>
+            <label><input type="radio" name="pngSize" value="512"> 512 px</label>
+            <label><input type="radio" name="pngSize" value="1024"> 1024 px</label>
+        </div>
+        <div class="dialog-actions">
+            <button class="btn" value="cancel">Cancel</button>
+            <button class="btn accent" value="default">Save</button>
+        </div>
+    </form>
+</dialog>
+
+<script src="/static/js/app.js"></script>
+</body>
+</html>
