@@ -90,6 +90,12 @@
         </div>
       `;
       els.grid.appendChild(card);
+      if (rec.theme === 'dark') {
+        const preview = card.querySelector('.preview');
+        preview.classList.add('dark');
+        const sw = card.querySelector('.bg-switch');
+        if (sw) sw.setAttribute('aria-pressed','true');
+      }
     });
 
     els.empty.hidden = total !== 0;
